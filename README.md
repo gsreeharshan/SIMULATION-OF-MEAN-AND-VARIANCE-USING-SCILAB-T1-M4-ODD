@@ -1,3 +1,4 @@
+## Experiment 5
 # SIMULATION-OF-MEAN-AND-VARIANCE-USING-SCILAB-T1-M4-ODD
 # AIM
 
@@ -30,3 +31,14 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 * Execute the code.
 * If any Error, correct it in code and execute again.
 * Verify the generated results.
+
+## tabulation 
+<img width="1055" height="1600" alt="WhatsApp Image 2026-09-23 at 2 40 35 PM (1)" src="https://github.com/user-attachments/assets/487b7d8e-db56-426a-9826-53fd585a6a08" />
+
+## output
+<img width="1381" height="746" alt="image" src="https://github.com/user-attachments/assets/8d1f0817-8afe-4663-9c06-02aaf2f42eb8" />
+
+
+## results 
+The output has been verified.
+
