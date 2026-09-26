@@ -33,7 +33,8 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 * Verify the generated results.
 
 ## tabulation 
-<img width="1280" height="866" alt="WhatsApp Image 2026-09-26 at 9 52 20 AM" src="https://github.com/user-attachments/assets/3a2c4019-d285-4041-a37e-08003e49cafd" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-26 at 10 05 09 AM" src="https://github.com/user-attachments/assets/02e042e5-b009-4fca-ab2e-c87448a6d74d" />
+
 
 <img width="1381" height="746" alt="image" src="https://github.com/user-attachments/assets/8d1f0817-8afe-4663-9c06-02aaf2f42eb8" />
 
