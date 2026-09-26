@@ -40,5 +40,7 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 
 ## results 
+<img width="1280" height="497" alt="WhatsApp Image 2026-09-26 at 11 58 17 AM" src="https://github.com/user-attachments/assets/20bf1807-d203-4acc-8858-940c34d2c04c" />
+
 The output has been verified.
 
